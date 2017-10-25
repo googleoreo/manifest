@@ -16,7 +16,7 @@ To initialize your local repository using the NinjaOS trees, use a
 command like this:
 
 ```bash
-  repo init -u git://github.com/NinjaOS/manifest.git -b oreo
+  repo init -u https://github.com/NinjaOS/manifest.git -b oreo
 ```
   
 Then to sync up:

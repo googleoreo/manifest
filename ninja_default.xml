@@ -12,6 +12,10 @@
            fetch="https://github.com/ninja-os"
 	   revision="temp" />
 	
+  <remote  name="temp"
+           fetch="https://github.com/googleoreo"
+	   revision="o8.x" />
+	
   <remote  name="gzosp"
            fetch="https://github.com/GZOSP" />
 
